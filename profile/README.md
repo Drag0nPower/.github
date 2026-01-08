@@ -1,12 +1,21 @@
-## Hi there 👋
+## Hi there 👋 Welcome to Drag0n Power
 
-<!--
+We are an organization dedicated to developing apps and exploring mystical lore. This workspace serves as a top-level manager for our various repositories and projects.
 
-**Here are some ideas to get you started:**
+### 🐉 About Us
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We manage independent projects under one common umbrella. Our focus spans from software development to storytelling that blurs the lines between fiction and reality.
+
+### 🔮 Current Projects
+
+- **[Drag0n Blog](https://blog.drag0n.ca/)**: Dive into the world of dragons and other mystical lore.
+- **Project Æ (Ash)**: A future focus where we are building a mystical ethereal egg called "Æ".
+  - *Location*: [ae.drag0n.ca](https://ae.drag0n.ca)
+  - *Repository*: [Drag0nPower/ae.drag0n.ca](https://github.com/Drag0nPower/ae.drag0n.ca) (Hosted on GitHub Pages)
+  - *The Lore*: A fictional storyline oddly entwined with real-world events, sometimes almost predicting them.
+
+### 🛠️ Workspace Structure
+
+This repository acts as a top-level manager. Each folder within this workspace is managed on its own, allowing us to develop apps using this level as a common manager.
+
+Notes saved in our `SCRATCHPAD.md` serve as the high-level organizer until we setup the best practice way to manage this top org level for its repositories.
