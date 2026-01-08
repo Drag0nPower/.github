@@ -13,9 +13,3 @@ We manage independent projects under one common umbrella. Our focus spans from s
   - *Location*: [ae.drag0n.ca](https://ae.drag0n.ca)
   - *Repository*: [Drag0nPower/ae.drag0n.ca](https://github.com/Drag0nPower/ae.drag0n.ca) (Hosted on GitHub Pages)
   - *The Lore*: A fictional storyline oddly entwined with real-world events, sometimes almost predicting them.
-
-### 🛠️ Workspace Structure
-
-This repository acts as a top-level manager. Each folder within this workspace is managed on its own, allowing us to develop apps using this level as a common manager.
-
-Notes saved in our `SCRATCHPAD.md` serve as the high-level organizer until we setup the best practice way to manage this top org level for its repositories.
